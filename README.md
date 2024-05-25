@@ -1,16 +1,17 @@
-## Hi there 👋
+- railsやlaravelを用いたwebアプリケーション開発 
+- Reactを用いたSPA開発
+- PocketMine-MPのプラグイン開発 
+- C#を用いたデスクトップアプリケーション開発
 
-<!--
-**OneWalkDev/OneWalkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+他にも、arduinoやrpiを使用した電子工作も行っています!
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs?username=OneWalkDev&show_icons=true&locale=en&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language
+![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,ruby,java,cs)
+
+## Framework, Library
+![](https://skillicons.dev/icons?i=mui,bootstrap,react,jquery,laravel,rails,dotnet,arduino,raspberrypi)
+
+## Etc
+![](https://skillicons.dev/icons?i=docker,visualstudio,vscode,phpstorm,vite,npm,yarn)
