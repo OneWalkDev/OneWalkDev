@@ -11,7 +11,7 @@
 ![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,ruby,java,cs)
 
 ## Framework, Library
-![](https://skillicons.dev/icons?i=mui,bootstrap,react,jquery,laravel,rails,dotnet,arduino,raspberrypi)
+![](https://skillicons.dev/icons?i=mui,tailwind,bootstrap,react,jquery,laravel,rails,dotnet,arduino,raspberrypi)
 
 ## Etc
 ![](https://skillicons.dev/icons?i=docker,visualstudio,vscode,phpstorm,vite,npm,yarn)
