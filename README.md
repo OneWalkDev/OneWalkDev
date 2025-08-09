@@ -1,9 +1,13 @@
+やっていること
+
 - railsやlaravelを用いたwebアプリケーション開発 
 - Reactを用いたSPA開発
 - PocketMine-MPのプラグイン開発 
 - C#を用いたデスクトップアプリケーション開発
+- pythonを用いたスクレイピング、バッチ開発
+- arduinoやrpiを使用した電子工作
 
-他にも、arduinoやrpiを使用した電子工作も行っています!
+...などなど
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=OneWalkDev&show_icons=true&locale=en&layout=compact)
 
