@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=OneWalkDev&show_icons=true&locale=en&layout=compact)
 
 ## Language
-![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,ruby,java,cs)
+![](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,ruby,java,cs,python)
 
 ## Framework, Library
 ![](https://skillicons.dev/icons?i=mui,tailwind,bootstrap,react,jquery,laravel,rails,dotnet,arduino,raspberrypi)
